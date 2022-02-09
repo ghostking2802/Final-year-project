@@ -18,18 +18,18 @@ This is an optical character recognition project written in MATLAB/Octave that p
 
 At the command line (Windows Command Prompt, Mac/Linux Terminal, or Git BASH), navigate to a desired folder:
 ```
-$ cd C:\Users\dx-dtran\Documents
+$ cd C:\Users\Documents
 ```
 Clone the repository to your folder:
 ```
-$ git clone https://github.com/dx-dtran/character-recognition.git
+$ git clone https://github.com/ghostking2802/character-recognition.git
 ```
 
 ## How to run the character recognition script
 
 At the MATLAB or Octave command line, navigate to the folder where the source files are located:
 ```
->> cd 'C:\Users\dx-dtran\Documents\character-recognition\src'
+>> cd 'C:\Users\Documents\character-recognition\src'
 ```
 
 #### MATLAB
