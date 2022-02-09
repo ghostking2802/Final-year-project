@@ -22,14 +22,14 @@ $ cd C:\Users\Documents
 ```
 Clone the repository to your folder:
 ```
-$ git clone https://github.com/ghostking2802/character-recognition.git
+$ git clone https://github.com/ghostking2802/Final-year-project.git
 ```
 
 ## How to run the character recognition script
 
 At the MATLAB or Octave command line, navigate to the folder where the source files are located:
 ```
->> cd 'C:\Users\Documents\character-recognition\src'
+>> cd 'C:\Users\Documents\Final-year-project\src'
 ```
 
 #### MATLAB
